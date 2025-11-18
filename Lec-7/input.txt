@@ -1,0 +1,14 @@
+12
+ADD a 5
+ADD b 6
+ADD c 0
+ADD d 4
+ADD r 1
+ADD z 4
+UPDATE r 0
+UPDATE a 10
+ADD t 9
+ADD s 5
+ADD u 1
+TOP 6
+
